@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>🧠memory with music</title>
+        <title>🧠memory wit music</title>
         <link rel="icon" href="img/logo_icon_white.png" />
         <meta name="viewport" content="user-scalable=no" />
         <meta name="robots" content="noindex" />
